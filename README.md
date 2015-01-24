@@ -1,2 +1,0 @@
-# ionic-menu
-ionic menu

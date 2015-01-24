@@ -1,0 +1,49 @@
+/* Empty. Add your own CSS if you like */
+.col{
+	border:1px solid #000;
+	text-align: center;
+}
+.button:last-child .button:first-child{
+	/*padding-bottom: 50px;
+	padding-top: 50px;*/
+}
+.button-bar > .button{
+	padding-bottom: 15px;
+	padding-top: 55px;
+}
+
+.button-bar > .one{
+	background-image: url("../img/conoha.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+.button-bar > .two{
+	background-image: url("../img/flower1.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+.button-bar > .three{
+	background-image: url("../img/flower2.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+.button-bar > .four{
+	background-image: url("../img/flower3.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+.button-bar > .five{
+	background-image: url("../img/flower4.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+.button-bar > .six{
+	background-image: url("../img/flower5.png");
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
